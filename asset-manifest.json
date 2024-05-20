@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-practice-pokemon/static/css/main.61b756e2.css",
+    "main.js": "/React-practice-pokemon/static/js/main.7befaf4a.js",
+    "index.html": "/React-practice-pokemon/index.html",
+    "main.61b756e2.css.map": "/React-practice-pokemon/static/css/main.61b756e2.css.map",
+    "main.7befaf4a.js.map": "/React-practice-pokemon/static/js/main.7befaf4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b756e2.css",
+    "static/js/main.7befaf4a.js"
+  ]
+}
